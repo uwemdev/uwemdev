@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/uwemdev">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Uwem Uwem Etim" /></a>
+    <img src="https://i.ibb.co/0YjgJhM/cooltext456543092137557.png" alt="Uwem Dev" /></a>
 </p>
 
 <p align="center">
