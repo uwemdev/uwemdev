@@ -55,9 +55,9 @@
 
 <br>
 <h2 align="left">My Trophies</h2>
-<center>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=uwemdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</center>
+
 <br>
 
 <h2 align="left">Coding Activity</h2>
