@@ -28,7 +28,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uwemdev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-### Hi there，I'm Uwem 🙋‍♂️
+<h2 align="left">Hi, I'm Uwem 🙋‍♂️</h2>
 
 - Open source is something I'm interested in.
 - Programming isn't about what you know.
@@ -36,7 +36,7 @@
 
 <br />
 
-### 🔨 Languages and Tools:
+<h2 align="left">Languages & Tools</h2>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -58,4 +58,30 @@
 
 <br />
 
+<h2 align="left">Coding Activity</h2>
 
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  2014.0 hr  ┤                                                                                                  ╭ 
+  2013.1 hr  ┤                                                                                     ╭────────────╯ 
+  2012.2 hr  ┤                                                                                     │              
+  2011.3 hr  ┤                                                                                    ╭╯              
+  2010.4 hr  ┤                                                                                    │               
+  2009.4 hr  ┤                                                                                   ╭╯               
+  2008.5 hr  ┤                                                                                   │                
+  2007.6 hr  ┤                                                                                  ╭╯                
+  2006.7 hr  ┤                                                                                  │                 
+  2005.8 hr  ┤                                                                                 ╭╯                 
+  2004.9 hr  ┤                                                                                ╭╯                  
+  2004.0 hr  ┤                                                                               ╭╯                   
+  2003.1 hr  ┼───────────────────────────────────────────────────────────────────────────────╯                    
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
