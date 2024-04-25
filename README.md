@@ -24,7 +24,7 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-<br />
+<br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uwemdev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
@@ -34,7 +34,7 @@
 - Programming isn't about what you know.
 - PHP will take over the world before AI does.
 
-<br />
+<br>
 
 <h2 align="left">Languages & Tools</h2>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -52,11 +52,12 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 
-<br />
+<br>
+<h2 align="left">My Trophies</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=uwemdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br />
+<br>
 
 <h2 align="left">Coding Activity</h2>
 
