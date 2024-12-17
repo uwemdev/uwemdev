@@ -36,38 +36,60 @@
 
 
 <br>
+# Uwem Etim  
 
-# Uwem Etim
-
-### Software Developer | Manager @MitaSchool | Web3 Enthusiast
-
-Hello! 👋 I'm **Uwem Etim**, a passionate and detail-oriented software developer with a proven track record of delivering innovative solutions to complex problems. From building dynamic web and app experiences to automating tasks with bots, I strive to create tools that make a difference.
+### Software Developer | Manager @MitaSchool | Web3 Enthusiast  
 
 ---
 
-## 🛠️ **About Me**
-- **Work History**:  
-  I am currently the **Manager at Mita School**, where I lead and mentor aspiring developers, helping them kickstart and advance their tech careers.  
-  - Previously served as the **Student Coordinator** and later as the **Technical Advisor** at Mita School.  
-  - Known for my ability to analyze business needs, streamline processes, and present efficient, unconventional solutions.  
+Hello! 👋 I'm **Uwem Etim**, a passionate and detail-oriented software developer with a proven track record in delivering innovative and impactful solutions. I currently serve as the **Manager at Mita School**, where I mentor aspiring developers, foster innovation, and lead projects that transform ideas into reality. My journey at Mita School started as a **Student Coordinator**, later transitioning to **Technical Advisor**, and eventually to my current managerial role. Alongside my work at Mita School, I run **Uwem Dev**, where I specialize in creating bespoke digital solutions tailored to clients' needs.  
 
-- **Education**:  
-  - Graduated from [Your University/Institute, if applicable].
-  - Self-taught in multiple areas of tech, including web development, app development, and AI/ML.  
-  - Lifelong learner with a keen interest in Web3 technologies and cybersecurity.
+A self-taught developer, I’ve spent countless hours mastering skills in programming, web development, AI/ML, and automation. My technical expertise spans **Python**, **JavaScript**, **PHP**, **HTML**, **CSS**, **React**, and **Node.js**, among other tools and frameworks. I thrive on tackling complex challenges, whether it’s building bots like the **Social Media Search Bot**, **Telegram Channel Copier Bot**, or **LinkedIn Job Search Bot**, or managing impactful projects like **Awabills**, a subscription management app.  
 
-- **Hobbies**:  
-  Outside of work, I am a die-hard **Chelsea FC** fan ⚽, a **PUBG Mobile warrior** 🎮, and an advocate for innovative tech.
+Beyond coding, I’m deeply enthusiastic about Web3 technologies and their potential to reshape the digital landscape. When I’m not solving problems or creating solutions, I enjoy supporting **Chelsea FC** ⚽, playing **PUBG Mobile** 🎮, or managing the social media presence of **@FcDakkada**. Known among peers as "the guy who killed PHP" (in good humor), I am committed to continuous learning, excellence in execution, and empowering others to grow in their tech journeys.  
 
 ---
 
-## 🚀 **Projects**
-Here are some of the exciting projects I’ve worked on:
-- [**Social Media Search Bot**](https://github.com/uwemdev/social-media-search-bot): A bot that searches and filters posts across multiple social media platforms.  
-- [**Algorithm Updates Bot**](https://github.com/uwemdev/algorithm-updates-bot): Automates posting updates about algorithm changes on social platforms.  
-- [**Awabills**](https://github.com/uwemdev/awabills): A subscription management app for efficiently tracking and organizing bills.  
-- [**Telegram Channel Copier Bot**](https://github.com/uwemdev/telegram-channel-copier-bot): A bot for replicating content between Telegram channels seamlessly.  
-- [**LinkedIn Job Search Bot**](https://github.com/uwemdev): Automates job searches and applications on LinkedIn.  
+## 🚀 **My Projects**
+
+### **GitHub Projects**  
+Here are some of the exciting projects I’ve worked on:  
+
+- [**Social Media Search Bot**](https://github.com/uwemdev/social-media-search-bot)  
+  A bot for searching and filtering posts across multiple social media platforms.  
+  ![Python](https://img.shields.io/badge/Language-Python-blue) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
+
+- [**Algorithm Updates Bot**](https://github.com/uwemdev/algorithm-updates-bot)  
+  Automates posting updates about algorithm changes on social platforms.  
+  ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
+
+- [**Awabills**](https://github.com/uwemdev/awabills)  
+  A subscription management app for efficiently tracking and organizing bills.  
+  ![Node.js](https://img.shields.io/badge/Framework-Node.js-green) ![Productivity](https://img.shields.io/badge/Category-Productivity-blue)  
+
+- [**Telegram Channel Copier Bot**](https://github.com/uwemdev/telegram-channel-copier-bot)  
+  A bot for replicating content between Telegram channels seamlessly.  
+  ![Python](https://img.shields.io/badge/Language-Python-blue) ![Bots](https://img.shields.io/badge/Category-Bots-purple)  
+
+- [**LinkedIn Job Search Bot**](https://github.com/uwemdev/linkedin-job-search-bot)  
+  Automates job searches and applications on LinkedIn.  
+  ![Python](https://img.shields.io/badge/Language-Python-blue) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
+
+---
+
+### **Web Projects**  
+Check out some of my web-based projects:  
+
+- [**FinanceHouse.biz**](https://financehouse.biz)  
+  A loan management platform designed for financial solutions.  
+
+- [**Mita School Website**](https://techmita.com)  
+  A platform for learning and advancing in tech with courses on Web3, cybersecurity, and more.  
+
+- [**FmtGuru**](https://fmtguru.com)  
+  Digital goods marketplace providing resources, tools, and updates.  
+
+> _More projects coming soon!_  
 
 ---
 
@@ -88,6 +110,7 @@ Here are some of the exciting projects I’ve worked on:
 ---
 
 ### "The guy who killed PHP. Building impactful solutions, one project at a time."
+
 
 <br>
 
