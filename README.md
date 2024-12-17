@@ -42,6 +42,61 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,dotnet,eclipse,figma,flutter,gcp,git,github,gmail,go,html,ai,java,js,jquery,kali,laravel,mint,mysql,mongodb,nextjs,nodejs,perl,ps,php,phpstorm,powershell,py,qt,r,react,replit,ruby,rust,sass,sqlite,stackoverflow,solidity,swift,svg,threejs,twitter,ubuntu,unity,v,vercel,vim,vscode,webflow,windows,wordpress,yarn," />
   </a>
 </p>
+<br>
+
+# Uwem Etim
+
+### Software Developer | Manager @MitaSchool | Web3 Enthusiast
+
+Hello! 👋 I'm **Uwem Etim**, a passionate and detail-oriented software developer with a proven track record of delivering innovative solutions to complex problems. From building dynamic web and app experiences to automating tasks with bots, I strive to create tools that make a difference.
+
+---
+
+## 🛠️ **About Me**
+- **Work History**:  
+  I am currently the **Manager at Mita School**, where I lead and mentor aspiring developers, helping them kickstart and advance their tech careers.  
+  - Previously served as the **Student Coordinator** and later as the **Technical Advisor** at Mita School.  
+  - Known for my ability to analyze business needs, streamline processes, and present efficient, unconventional solutions.  
+
+- **Education**:  
+  - Graduated from [Your University/Institute, if applicable].
+  - Self-taught in multiple areas of tech, including web development, app development, and AI/ML.  
+  - Lifelong learner with a keen interest in Web3 technologies and cybersecurity.
+
+- **Hobbies**:  
+  Outside of work, I am a die-hard **Chelsea FC** fan ⚽, a **PUBG Mobile warrior** 🎮, and an advocate for innovative tech.
+
+---
+
+## 🚀 **Projects**
+Here are some of the exciting projects I’ve worked on:
+- [**Social Media Search Bot**](https://github.com/uwemdev/social-media-search-bot): A bot that searches and filters posts across multiple social media platforms.  
+- [**Algorithm Updates Bot**](https://github.com/uwemdev/algorithm-updates-bot): Automates posting updates about algorithm changes on social platforms.  
+- [**Awabills**](https://github.com/uwemdev/awabills): A subscription management app for efficiently tracking and organizing bills.  
+- [**Telegram Channel Copier Bot**](https://github.com/uwemdev/telegram-channel-copier-bot): A bot for replicating content between Telegram channels seamlessly.  
+- [**LinkedIn Job Search Bot**](https://github.com/uwemdev): Automates job searches and applications on LinkedIn.  
+
+---
+
+## 🌟 **Skills**
+- **Programming Languages**: Python, JavaScript, PHP  
+- **Web Development**: HTML, CSS, React, Node.js  
+- **Data Analytics & AI/ML**: TensorFlow, Pandas, Scikit-learn  
+- **Tools & Platforms**: GitHub Codespaces, Docker, Figma  
+- **Other Expertise**: UI/UX Design, SEO Optimization, Cybersecurity, Web3  
+
+---
+
+## 📫 **Get in Touch**
+- **GitHub**: [uwemdev](https://github.com/uwemdev)  
+- **Email**: [email@example.com](mailto:email@example.com)  
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+
+---
+
+### "The guy who killed PHP. Building impactful solutions, one project at a time."
+
+
 
 <br>
 <h2 align="left">My Spotify Data</h2>
