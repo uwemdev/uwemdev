@@ -76,4 +76,4 @@
 
 <br>
 <h2 align="left">My Coding Stats</h2>
-![uwemdev github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=uwemdev)
+[![uwemdev github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=uwemdev)]
