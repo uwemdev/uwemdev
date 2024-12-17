@@ -45,7 +45,7 @@ Hello! 👋 I'm **Uwem Etim**, a passionate and detail-oriented software develop
 
 A self-taught developer, I’ve spent countless hours mastering skills in programming, web development, AI/ML, and automation. My technical expertise spans **Python**, **JavaScript**, **PHP**, **HTML**, **CSS**, **React**, and **Node.js**, among other tools and frameworks. I thrive on tackling complex challenges, whether it’s building bots like the **Social Media Search Bot**, **Telegram Channel Copier Bot**, or **LinkedIn Job Search Bot**, or managing impactful projects like **Awabills**, a subscription management app.  
 
-Beyond coding, I’m deeply enthusiastic about Web3 technologies and their potential to reshape the digital landscape. When I’m not solving problems or creating solutions, I enjoy supporting **Chelsea FC** ⚽, playing **PUBG Mobile** 🎮, or managing the social media presence of **@FcDakkada**. Known among peers as "the guy who killed PHP" (in good humor), I am committed to continuous learning, excellence in execution, and empowering others to grow in their tech journeys.  
+Beyond coding, I’m deeply enthusiastic about Web3 technologies and their potential to reshape the digital landscape. When I’m not solving problems or creating solutions, I enjoy supporting [**Chelsea FC**](https://www.chelseafc.com/en) ⚽, playing [**COD Mobile**](https://www.callofduty.com/mobile) 🎮, or managing the social media presence of [**Dakkada FC**](https://en.wikipedia.org/wiki/Dakkada). Known among peers as "the guy who killed PHP" (in good humor), I am committed to continuous learning, excellence in execution, and empowering others to grow in their tech journeys.  
 
 ---
 
