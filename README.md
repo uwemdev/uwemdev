@@ -36,9 +36,8 @@
 
 
 <br>
-# Uwem Etim  
-
-### Software Developer | Manager @MitaSchool | Web3 Enthusiast  
+ 
+### Developer | Open Source Advocate | Web3 & AI Enthusiast  
 
 ---
 
@@ -81,14 +80,20 @@ Here are some of the exciting projects I’ve worked on:
 
 ---
 
-### **Top Web Projects**  
+### **Top Web / App Projects**  
 Check out some of my web-based projects:  
 
-- [**FinanceHouse.biz**](https://financehouse.biz)  
-  A loan management platform designed for financial solutions.  
+- [**Block Puzzle**](https://play.google.com/store/apps/details?id=com.pixelforgellc.blockpuzzlee)  
+  Block Puzzle is the ultimate brain-training puzzle game! 
+
+- [**DePremix Hotel**](https://depremixhotel.com/)  
+  A simple hotel website with booking, restaurant orders and more.  
 
 - [**Mita School Website**](https://mitaschool.com)  
   A platform for learning and advancing in tech with courses on Web3, cybersecurity, and more.  
+
+- [**Betspae**](https://play.google.com/store/apps/details?id=com.betspae_sport.app)  
+ An app providing you with valuable and unique daily sport analysis. 
 
 - [**FmtGuru**](https://fmtguru.com)  
   Digital goods marketplace providing resources, tools, and updates.  
