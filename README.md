@@ -52,16 +52,16 @@ Beyond coding, I’m deeply enthusiastic about Web3 technologies and their poten
 
 ## 🚀 **My Projects**
 
-### **GitHub Projects**  
+### **Top GitHub Projects**  
 Here are some of the exciting projects I’ve worked on:  
 
 - [**Social Media Search Bot**](https://github.com/uwemdev/social-media-search-bot)  
   A bot for searching and filtering posts across multiple social media platforms.  
   ![Python](https://img.shields.io/badge/Language-Python-blue) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
 
-- [**Algorithm Updates Bot**](https://github.com/uwemdev/algorithm-updates-bot)  
-  Automates posting updates about algorithm changes on social platforms.  
-  ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
+- [**Real Estate Management**](https://github.com/uwemdev/real-estate-management)  
+  A simple well designed real estate project written in PHP.  
+  ![PHP](https://img.shields.io/badge/Language-Php-yellow) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
 
 - [**Awabills**](https://github.com/uwemdev/awabills)  
   A subscription management app for efficiently tracking and organizing bills.  
