@@ -95,26 +95,6 @@ Check out some of my web-based projects:
 
 > _More projects coming soon!_  
 
----
-
-## 🌟 **Skills**
-- **Programming Languages**: Python, JavaScript, PHP  
-- **Web Development**: HTML, CSS, React, Node.js  
-- **Data Analytics & AI/ML**: TensorFlow, Pandas, Scikit-learn  
-- **Tools & Platforms**: GitHub Codespaces, Docker, Figma  
-- **Other Expertise**: UI/UX Design, SEO Optimization, Cybersecurity, Web3  
-
----
-
-## 📫 **Get in Touch**
-- **GitHub**: [uwemdev](https://github.com/uwemdev)  
-- **Email**: [email@example.com](mailto:email@example.com)  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-
----
-
-### "The guy who killed PHP. Building impactful solutions, one project at a time."
-
 
 <br>
 
