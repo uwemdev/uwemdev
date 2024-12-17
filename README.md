@@ -55,13 +55,17 @@ Beyond coding, I’m deeply enthusiastic about Web3 technologies and their poten
 ### **Top GitHub Projects**  
 Here are some of the exciting projects I’ve worked on:  
 
+- [**All In One WhatsApp Bot**](https://github.com/uwemdev/all-in-one-whatsapp-bot)  
+  A WhatsApp Bot that makes usage of WhatsApp cool with automations and many awesome features.   
+  ![Python](https://img.shields.io/badge/Language-JavaScript-Yellow) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
+
 - [**Social Media Search Bot**](https://github.com/uwemdev/social-media-search-bot)  
   A bot for searching and filtering posts across multiple social media platforms.  
   ![Python](https://img.shields.io/badge/Language-Python-blue) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
 
 - [**Real Estate Management**](https://github.com/uwemdev/real-estate-management)  
   A simple well designed real estate project written in PHP.  
-  ![PHP](https://img.shields.io/badge/Language-Php-yellow) ![Automation](https://img.shields.io/badge/Category-Automation-brightgreen)  
+  ![PHP](https://img.shields.io/badge/Language-Php-yellow) ![Automation](https://img.shields.io/badge/Category-Script-brightgreen)  
 
 - [**Awabills**](https://github.com/uwemdev/awabills)  
   A subscription management app for efficiently tracking and organizing bills.  
@@ -77,13 +81,13 @@ Here are some of the exciting projects I’ve worked on:
 
 ---
 
-### **Web Projects**  
+### **Top Web Projects**  
 Check out some of my web-based projects:  
 
 - [**FinanceHouse.biz**](https://financehouse.biz)  
   A loan management platform designed for financial solutions.  
 
-- [**Mita School Website**](https://techmita.com)  
+- [**Mita School Website**](https://mitaschool.com)  
   A platform for learning and advancing in tech with courses on Web3, cybersecurity, and more.  
 
 - [**FmtGuru**](https://fmtguru.com)  
