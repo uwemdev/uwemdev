@@ -28,7 +28,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uwemdev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-<h2 align="left">Hi, I'm Uwem 🙋‍♂️</h2>
+<h2 align="left">Hello World !!!</h2>
 
 - Open source is something I'm interested in.
 - Programming isn't about what you know.
