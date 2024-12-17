@@ -34,14 +34,7 @@
 - Programming isn't about what you know.
 - PHP will take over the world before AI does.
 
-<br>
 
-<h2 align="left">My Languages & Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,dotnet,eclipse,figma,flutter,gcp,git,github,gmail,go,html,ai,java,js,jquery,kali,laravel,mint,mysql,mongodb,nextjs,nodejs,perl,ps,php,phpstorm,powershell,py,qt,r,react,replit,ruby,rust,sass,sqlite,stackoverflow,solidity,swift,svg,threejs,twitter,ubuntu,unity,v,vercel,vim,vscode,webflow,windows,wordpress,yarn," />
-  </a>
-</p>
 <br>
 
 # Uwem Etim
@@ -96,7 +89,14 @@ Here are some of the exciting projects I’ve worked on:
 
 ### "The guy who killed PHP. Building impactful solutions, one project at a time."
 
+<br>
 
+<h2 align="left">My Languages & Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,dotnet,eclipse,figma,flutter,gcp,git,github,gmail,go,html,ai,java,js,jquery,kali,laravel,mint,mysql,mongodb,nextjs,nodejs,perl,ps,php,phpstorm,powershell,py,qt,r,react,replit,ruby,rust,sass,sqlite,stackoverflow,solidity,swift,svg,threejs,twitter,ubuntu,unity,v,vercel,vim,vscode,webflow,windows,wordpress,yarn," />
+  </a>
+</p>
 
 <br>
 <h2 align="left">My Spotify Data</h2>
