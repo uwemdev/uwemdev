@@ -56,8 +56,8 @@
 <br>
 <h2 align="left">My Spotify Data</h2>
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31lnkgnfl3dwdb7jsj2bapwohdqe">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31lnkgnfl3dwdb7jsj2bapwohdqe" alt="Data Card for Spotify">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31lnkgnfl3dwdb7jsj2bapwohdqe&show_border=1">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31lnkgnfl3dwdb7jsj2bapwohdqe&show_border=1" alt="Data Card for Spotify">
 </a>
 
 <br>
