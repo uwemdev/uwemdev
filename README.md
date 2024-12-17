@@ -122,6 +122,12 @@ Check out some of my web-based projects:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=uwemdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<br>
+<h2 align="left">My Profile Summary</h2>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uwemdev&theme=date_night)
+
+
 <br>
 <h2 align="left">Github Contribution Grid</h2>
 <picture>
@@ -131,6 +137,4 @@ Check out some of my web-based projects:
 </picture>
 
 
-<br>
-<h2 align="left">My Profile Summary</h2>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uwemdev&theme=date_night)
+
