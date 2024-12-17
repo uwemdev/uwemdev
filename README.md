@@ -54,6 +54,13 @@
 </p>
 
 <br>
+<h2 align="left">My Spotify Data</h2>
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31lnkgnfl3dwdb7jsj2bapwohdqe">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31lnkgnfl3dwdb7jsj2bapwohdqe" alt="Data Card for Spotify">
+</a>
+
+<br>
 <h2 align="left">My Trophies</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=uwemdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
