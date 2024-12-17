@@ -76,29 +76,4 @@
 
 <br>
 <h2 align="left">My Coding Activity</h2>
-
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  2014.0 hr  ┤                                                                                                  ╭ 
-  2013.1 hr  ┤                                                                                     ╭────────────╯ 
-  2012.2 hr  ┤                                                                                     │              
-  2011.3 hr  ┤                                                                                    ╭╯              
-  2010.4 hr  ┤                                                                                    │               
-  2009.4 hr  ┤                                                                                   ╭╯               
-  2008.5 hr  ┤                                                                                   │                
-  2007.6 hr  ┤                                                                                  ╭╯                
-  2006.7 hr  ┤                                                                                  │                 
-  2005.8 hr  ┤                                                                                 ╭╯                 
-  2004.9 hr  ┤                                                                                ╭╯                  
-  2004.0 hr  ┤                                                                               ╭╯                   
-  2003.1 hr  ┼───────────────────────────────────────────────────────────────────────────────╯                    
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uwemdev)](https://github.com/uwemdev/github-readme-activity-graph)
