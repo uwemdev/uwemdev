@@ -75,5 +75,5 @@
 
 
 <br>
-<h2 align="left">My Coding Activity</h2>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="left">My Coding Stats</h2>
+![uwemdev github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=uwemdev)
