@@ -132,5 +132,5 @@ Check out some of my web-based projects:
 
 
 <br>
-<h2 align="left">My Coding Stats</h2>
-[![uwemdev github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=uwemdev)]
+<h2 align="left">My Profile Summary</h2>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uwemdev&theme=date_night)
