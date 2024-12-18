@@ -98,7 +98,7 @@ Check out some of my web-based projects:
 - [**FmtGuru**](https://fmtguru.com)  
   Digital goods marketplace providing resources, tools, and updates.  
 
-> _More projects coming soon!_  
+> _I can't post everything here!_  
 
 
 <br>
