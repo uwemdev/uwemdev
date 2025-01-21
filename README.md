@@ -123,6 +123,18 @@ Check out some of my web-based projects:
 [![trophy](https://github-profile-trophy.vercel.app/?username=uwemdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<br>
+<h2 align="left">Github Contribution Pet</h2>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=uwemdev&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/uwemdev"
+    width="auto"
+    height="120"
+  />
+</a>
+  
+
 
 
 <br>
