@@ -36,10 +36,10 @@
       <br>
       <h3>🚀 About Me</h3>
       <p>
-        I’m **Uwem Etim**, a Python developer and Web3 builder. My work focuses on creating **automation tools**, **smart integrations**, and **blockchain-based solutions**.
+        I’m <strong>Uwem Etim</strong>, a Python developer and Web3 builder. My work focuses on creating <strong>automation tools</strong>, <strong>smart integrations</strong>, and <strong>blockchain-based solutions</strong>.
       </p>
       <p>
-        At [**Mita School**](https://mitaschool.com), I manage and mentor upcoming developers. I also run **Uwem Dev**, crafting Python-powered solutions for real-world problems.
+        At <a href="https://mitaschool.com"><strong>Mita School</strong></a>, I manage and mentor upcoming developers. I also run <strong>Uwem Dev</strong>, crafting Python-powered solutions for real-world problems.
       </p>
     </td>
     <td width="40%" valign="top" align="center">
