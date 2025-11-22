@@ -23,46 +23,48 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👋 Hello World!</h2>
-      <ul>
-        <li>🔹 Open-source contributor & Web3 advocate</li>
-        <li>🔹 Python lover: automations, bots, data pipelines</li>
-        <li>🔹 Building tools that make life simpler</li>
-        <li>🔹 Exploring the future with blockchain</li>
-      </ul>
-      <br>
-      <h3>🚀 About Me</h3>
-      <p>
-        I’m <strong>Uwem Etim</strong>, a Python developer and Web3 builder. My work focuses on creating <strong>automation tools</strong>, <strong>smart integrations</strong>, and <strong>blockchain-based solutions</strong>.
-      </p>
-      <p>
-        At <a href="https://mitaschool.com"><strong>Mita School</strong></a>, I manage and mentor upcoming developers. I also run <strong>Uwem Dev</strong>, crafting Python-powered solutions for real-world problems.
-      </p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=uwemdev&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=uwemdev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+# 👋 Hello World!
+
+- 🔹 Open-source contributor & Web3 advocate  
+- 🔹 Python lover: automations, bots, data pipelines  
+- 🔹 Building tools that make life simpler  
+- 🔹 Exploring the future with blockchain  
 
 ---
 
-## 🛠 Featured Projects
+## 🚀 About Me  
 
-| Project | Tech Stack | Category |
-| :--- | :---: | :---: |
-| [**Social Media Search Bot**](https://github.com/uwemdev/social-media-search-bot)<br>Search and filter posts across multiple platforms. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Automation](https://img.shields.io/badge/Automation-green) |
-| [**Telegram Channel Copier Bot**](https://github.com/uwemdev/telegram-channel-copier-bot)<br>Seamlessly replicate content between Telegram channels. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Bots](https://img.shields.io/badge/Bots-purple) |
-| [**LinkedIn Job Search Bot**](https://github.com/uwemdev/linkedin-job-search-bot)<br>Automates job searches and job tracking. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Automation](https://img.shields.io/badge/Automation-green) |
-| [**Crypto Scam Detector Bot**](https://github.com/uwemdev) *(private)*<br>An AI-powered Web3 bot to flag suspicious wallets. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Web3](https://img.shields.io/badge/Web3-orange) |
+I’m **Uwem Etim**, a Python developer and Web3 builder. My work focuses on creating **automation tools**, **smart integrations**, and **blockchain-based solutions**.  
+
+At [**Mita School**](https://mitaschool.com), I manage and mentor upcoming developers, helping them bridge Web2 and Web3 skills. I also run **Uwem Dev**, where I craft Python-powered solutions for real-world problems — from bots to dashboards to decentralized tools.  
+
+My core stack: **Python, Flask, FastAPI, Solidity, Web3.py, Ethers.js, REST APIs, and automation scripting.**  
 
 ---
 
-## ⚡ Tech Stack
+## 🛠 Featured Projects  
+
+- [**Social Media Search Bot**](https://github.com/uwemdev/social-media-search-bot)  
+  Search and filter posts across multiple platforms.  
+  ![Python](https://img.shields.io/badge/Language-Python-blue) ![Automation](https://img.shields.io/badge/Category-Automation-green)
+
+- [**Telegram Channel Copier Bot**](https://github.com/uwemdev/telegram-channel-copier-bot)  
+  Seamlessly replicate content between Telegram channels.  
+  ![Python](https://img.shields.io/badge/Language-Python-blue) ![Bots](https://img.shields.io/badge/Category-Bots-purple)
+
+- [**LinkedIn Job Search Bot**](https://github.com/uwemdev/linkedin-job-search-bot)  
+  Automates job searches and job tracking.  
+  ![Python](https://img.shields.io/badge/Language-Python-blue) ![Automation](https://img.shields.io/badge/Category-Automation-green)
+
+- [**Crypto Scam Detector Bot**](https://github.com/uwemdev) *(private)*  
+  An AI-powered Web3 bot to flag suspicious wallets.  
+  ![Python](https://img.shields.io/badge/Language-Python-blue) ![Web3](https://img.shields.io/badge/Category-Web3-orange)
+
+---
+
+## ⚡ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,flask,fastapi,solidity,js,react,nodejs,mongodb,mysql,git,github,linux,docker" />
@@ -70,26 +72,16 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=uwemdev&theme=tokyonight" alt="trophy" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=uwemdev&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br>
-
-<p align="center">
-  <i>Thanks for visiting! Let's build something amazing together. 🚀</i>
-</p>
